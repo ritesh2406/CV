@@ -1,0 +1,33 @@
+.nopadding{
+    padding-left: 0px;
+    padding-right: 0px;
+}
+body {
+background-color: white;
+color: black;
+padding: 20px;
+font-family: Arial, Verdana, sans-serif; }
+h1{
+     text-align: center;
+     color: #0088dd; }
+     p {
+font-family: Arial, Verdana, sans-serif;
+line-height: 1.4em;
+color: #669988; }
+table {
+width: 600px; }
+th, td {
+padding: 7px 10px 10px 10px; }
+th {
+text-transform: uppercase;
+letter-spacing: 0.1em;
+font-size: 90%;
+border-bottom: 2px solid #111111;
+border-top: 1px solid #999;
+text-align: left; }
+tr:hover {
+background-color: #c3e6e5; }
+img{
+    display:block;
+    margin: auto;
+}
